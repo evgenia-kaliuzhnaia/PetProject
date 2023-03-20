@@ -11,11 +11,11 @@ Programming language: Java.
 1. Open cmd
 2. Input one of the following commands:
 
-For authorization test
+*for authorization test: 
 `mvn clean test -PauthorizationTest`
 
-For cart page test
+*for cart page test: 
 `mvn clean test -PcartTest`
 
-To start all tests
+*to start all tests: 
 `mvn clean test`
